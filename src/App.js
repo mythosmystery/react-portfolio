@@ -3,6 +3,7 @@ import './App.css';
 import NavBar from './components/NavBar';
 import Parallax from './components/Parallax';
 import About from './components/About';
+import ProjectList from './components/ProjectList';
 
 function App() {
    return (
@@ -11,6 +12,7 @@ function App() {
          <Parallax />
          <About />
          <Parallax />
+         <ProjectList />
       </div>
    );
 }
