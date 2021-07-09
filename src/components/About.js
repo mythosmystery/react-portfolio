@@ -2,33 +2,33 @@ import React from 'react';
 import me from '../assets/images/me.jpg';
 function About() {
    return (
-      <div class="container">
-         <div class="row">
-            <div class="col s12 m3">
-               <div class="card">
-                  <div class="card-image waves-effect waves-block waves-light">
-                     <img class="activator" src={me} alt="" />
+      <div className="container">
+         <div className="row">
+            <div className="col s12 m3">
+               <div className="card">
+                  <div className="card-image waves-effect waves-block waves-light">
+                     <img className="activator" src={me} alt="" />
                   </div>
-                  <div class="card-content">
-                     <span class="card-title activator white-text">
-                        Who am I?<i class="material-icons right">more_vert</i>
+                  <div className="card-content">
+                     <span className="card-title activator white-text">
+                        Who am I?<i className="material-icons right">more_vert</i>
                      </span>
                   </div>
-                  <div class="card-reveal">
-                     <span class="card-title white-text">
-                        About Me<i class="material-icons right">close</i>
+                  <div className="card-reveal">
+                     <span className="card-title white-text">
+                        About Me<i className="material-icons right">close</i>
                      </span>
-                     <p class="white-text">
+                     <p className="white-text">
                         My name is Hunter Barton and I am a 23 year old software developer, photographer, and musician. I am from Tucson Arizona and
                         currently live in Oklahoma City, Oklahoma.
                      </p>
                   </div>
                </div>
             </div>
-            <div class="col s12 m8">
-               <div class="card" id="aboutMe">
-                  <div class="card-content white-text">
-                     <span class="card-title">About Me</span>
+            <div className="col s12 m8">
+               <div className="card" id="aboutMe">
+                  <div className="card-content white-text">
+                     <span className="card-title">About Me</span>
                      <p>
                         My name is Hunter Barton and I am a 23 year old software developer, photographer and musician. In 2020 I moved to Oklahoma
                         City from Tucson, AZ. My first passion is music. When I was 10 years old I got a bass guitar for christmas and I've been

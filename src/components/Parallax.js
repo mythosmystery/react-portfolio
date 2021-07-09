@@ -6,8 +6,8 @@ function Parallax() {
       M.AutoInit();
    }, []);
    return (
-      <div class="parallax-container">
-         <div class="parallax">
+      <div className="parallax-container">
+         <div className="parallax">
             <img src={hero} alt=""></img>
          </div>
       </div>

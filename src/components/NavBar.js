@@ -2,11 +2,11 @@ import React, { useState } from 'react';
 function NavBar() {
    return (
       <nav>
-         <div class="nav-wrapper">
-            <a href="#" class="brand-logo">
-               <i class="material-icons">child_care</i>Hunter Barton Portfolio
+         <div className="nav-wrapper">
+            <a href="#" className="brand-logo">
+               <i className="material-icons">child_care</i>Hunter Barton Portfolio
             </a>
-            <ul id="nav-mobile" class="right hide-on-med-and-down">
+            <ul id="nav-mobile" className="right hide-on-med-and-down">
                <li>
                   <a href="#projects">Projects</a>
                </li>
