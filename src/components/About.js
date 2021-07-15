@@ -15,10 +15,10 @@ function About() {
                      </span>
                   </div>
                   <div className="card-reveal">
-                     <span className="card-title white-text">
+                     <span className="card-title">
                         About Me<i className="material-icons right">close</i>
                      </span>
-                     <p className="white-text">
+                     <p>
                         My name is Hunter Barton and I am a 23 year old software developer, photographer, and musician. I am from Tucson Arizona and
                         currently live in Oklahoma City, Oklahoma.
                      </p>

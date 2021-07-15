@@ -13,6 +13,7 @@ function App() {
          <About />
          <Parallax />
          <ProjectList />
+         <Parallax />
       </div>
    );
 }
