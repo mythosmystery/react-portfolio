@@ -4,6 +4,9 @@ import NavBar from './components/NavBar';
 import Parallax from './components/Parallax';
 import About from './components/About';
 import ProjectList from './components/ProjectList';
+import VideoList from './components/VideoList';
+import Footer from './components/Footer';
+import Carousel from './components/Carousel';
 
 function App() {
    return (
@@ -14,6 +17,10 @@ function App() {
          <Parallax />
          <ProjectList />
          <Parallax />
+         <VideoList />
+         <Parallax />
+         <Carousel />
+         <Footer />
       </div>
    );
 }

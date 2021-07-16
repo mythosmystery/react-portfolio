@@ -7,7 +7,7 @@ import techBlog from '../assets/images/tech.PNG';
 
 function ProjectList() {
    return (
-      <div className="container">
+      <div className="container" id="projects">
          <Project
             title="Tech Blog"
             imageURL={techBlog}

@@ -4,7 +4,7 @@ function VideoCard(props) {
       <div class="col s12 m6">
          <div class="card">
             <div class="card-image">
-               <img src={props.imgSrc} />
+               <img src={props.imgSrc} alt="" />
                <span class="card-title">{props.title}</span>
             </div>
             <div class="card-content white-text">
