@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.d862c7e6.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.2c968084.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.2c968084.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.2a40738b.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.2a40738b.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.b13c0e04.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.b13c0e04.js.map",
     "static/css/2.0a49d93f.chunk.css": "/react-portfolio/static/css/2.0a49d93f.chunk.css",
@@ -14,26 +14,19 @@
     "static/css/2.0a49d93f.chunk.css.map": "/react-portfolio/static/css/2.0a49d93f.chunk.css.map",
     "static/css/main.d862c7e6.chunk.css.map": "/react-portfolio/static/css/main.d862c7e6.chunk.css.map",
     "static/js/2.487dc72b.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.487dc72b.chunk.js.LICENSE.txt",
-    "static/media/dead-trees.244bf8eb.JPG": "/react-portfolio/static/media/dead-trees.244bf8eb.JPG",
-    "static/media/dog.42311f32.JPG": "/react-portfolio/static/media/dog.42311f32.JPG",
+    "static/media/devcrowd.dfb8fcd8.png": "/react-portfolio/static/media/devcrowd.dfb8fcd8.png",
     "static/media/entheos.25944553.PNG": "/react-portfolio/static/media/entheos.25944553.PNG",
     "static/media/hero.593680b1.JPG": "/react-portfolio/static/media/hero.593680b1.JPG",
-    "static/media/lens-flare.03e60439.JPG": "/react-portfolio/static/media/lens-flare.03e60439.JPG",
     "static/media/leo.504bd744.PNG": "/react-portfolio/static/media/leo.504bd744.PNG",
-    "static/media/me.02e96118.jpg": "/react-portfolio/static/media/me.02e96118.jpg",
-    "static/media/moonlight.4fefb6b7.JPG": "/react-portfolio/static/media/moonlight.4fefb6b7.JPG",
-    "static/media/night-city.18682a52.JPG": "/react-portfolio/static/media/night-city.18682a52.JPG",
-    "static/media/night-desert-1.bd25d467.JPG": "/react-portfolio/static/media/night-desert-1.bd25d467.JPG",
-    "static/media/project-2.d5df0946.PNG": "/react-portfolio/static/media/project-2.d5df0946.PNG",
-    "static/media/red-flower.deb64aa4.JPG": "/react-portfolio/static/media/red-flower.deb64aa4.JPG",
+    "static/media/me.dc8c32f9.jpg": "/react-portfolio/static/media/me.dc8c32f9.jpg",
     "static/media/tech.8f6a59e5.PNG": "/react-portfolio/static/media/tech.8f6a59e5.PNG",
-    "static/media/weather.adc22dd7.PNG": "/react-portfolio/static/media/weather.adc22dd7.PNG"
+    "static/media/weather.08c67699.png": "/react-portfolio/static/media/weather.08c67699.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b13c0e04.js",
     "static/css/2.0a49d93f.chunk.css",
     "static/js/2.487dc72b.chunk.js",
     "static/css/main.d862c7e6.chunk.css",
-    "static/js/main.2c968084.chunk.js"
+    "static/js/main.2a40738b.chunk.js"
   ]
 }
