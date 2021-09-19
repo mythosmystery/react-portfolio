@@ -27,6 +27,10 @@ None. Just go to the Github Pages [link](https://mythosmystery.github.io/react-p
 
 Use the navigation bar to go to different sections of the site. The project screenshots can be clicked on to reveal more detailed information.
 
+## Screenshots
+
+![](Assets/react-portfolio.png)
+
 ## Configuring
 
 N/A
