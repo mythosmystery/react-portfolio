@@ -6,6 +6,7 @@ import About from './components/About';
 import ProjectList from './components/ProjectList';
 import VideoList from './components/VideoList';
 import Footer from './components/Footer';
+import Skills from './components/Skills';
 
 function App() {
    return (
@@ -13,6 +14,8 @@ function App() {
          <NavBar />
          <Parallax />
          <About />
+         <Parallax />
+         <Skills />
          <Parallax />
          <ProjectList />
          <Parallax />

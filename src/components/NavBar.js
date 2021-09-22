@@ -20,6 +20,9 @@ function NavBar() {
                      <a href="#aboutMe">About Me</a>
                   </li>
                   <li>
+                     <a href="#skills">Skills</a>
+                  </li>
+                  <li>
                      <a href="#videos">Videos</a>
                   </li>
                   <li>
